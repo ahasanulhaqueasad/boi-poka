@@ -2,7 +2,7 @@
 
 const PagesToRead = () => {
     return (
-        <div>
+        <div className="min-h-screen px-12">
             
         </div>
     );
