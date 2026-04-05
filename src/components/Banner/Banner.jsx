@@ -24,7 +24,7 @@ const Banner = () => {
               </h1>
 
               {/* Link Section */}
-              <Link to="/listed-books">
+              <Link to="/listedBooks">
                 <button className="btn bg-[#23BE0A] hover:bg-[#1fa308] text-white border-none mt-8 md:mt-12 px-8 font-bold text-lg rounded-xl h-14">
                   View The List
                 </button>
