@@ -133,7 +133,7 @@ const Contact = () => {
                 Twitter
               </a>
               <a
-                href="https://github.com"
+                href="https://github.com/ahasanulhaqueasad"
                 className="btn btn-outline btn-neutral btn-sm"
               >
                 GitHub
